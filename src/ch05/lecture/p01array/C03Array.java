@@ -17,12 +17,12 @@ public class C03Array {
         a[2] = 100; //마지막 저장공간의 번호는 (길이 -1)
         b[1] = 3.14;
         c[3] = '한'; // str
-        d[3] = "jav"; //string
+        d[2] = "jav"; //string
 
         System.out.println("a[2] =" + a[2]);
         System.out.println("b[1] =" + b[1]);
         System.out.println("c[3] =" + c[3]);
-        System.out.println("d[4] =" + d[3]);
+        System.out.println("d[4] =" + d[2]);
 
 
 
